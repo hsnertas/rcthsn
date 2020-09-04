@@ -1,0 +1,22 @@
+.login{
+    width: 25%; 
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.input{
+    margin: 10px auto;
+    display: block;
+}
+
+.input-top{
+    margin: 0 auto;
+}
+
+.loginbutton{
+    margin: 90px;
+}
+
+.signup-button{
+    background-color: #21b6ae;
+}
